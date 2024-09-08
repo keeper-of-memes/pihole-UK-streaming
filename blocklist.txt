@@ -22,9 +22,3 @@ static.vliplatform.com
 
 toots-a.akamaihd.net
 
-cpt.itv.com
-toots-a.akamaihd.net
-api.lab.eu.amplitude.com
-822d428ad6a0a99e585ae79b04746ccfc541cad1.cws.conviva.com
-ar.prd.content.itv.com
-europe-west1-itv-ds-prd.cloudfunctions.net
