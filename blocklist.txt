@@ -22,3 +22,4 @@ static.vliplatform.com
 
 toots-a.akamaihd.net
 
+tpsc-video.doubleverify.com
